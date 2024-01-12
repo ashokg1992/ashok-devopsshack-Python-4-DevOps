@@ -138,6 +138,64 @@
  
 
 
-#################################    #################################################
+#################################  SAMPLE EXAMPLS  #################################################
+
+## SAMPLE PROGRAM
+
+# Certainly! Below is a sample Python program that demonstrates user inputs, control statements (if-else), and loops (for loop and while loop):
+
+# ```python
+# # User inputs
+# name = input("Enter your name: ")
+# age = int(input("Enter your age: "))
+
+# # Control statement (if-else)
+# if age >= 18:
+#     print(f"Hello {name}! You are eligible to vote.")
+# else:
+#     print(f"Hello {name}! You are not yet eligible to vote. You can vote in {18 - age} years.")
+
+# # For loop
+# print("Printing numbers from 1 to 5 using a for loop:")
+# for i in range(1, 6):
+#     print(i)
+
+# # While loop
+# num = int(input("Enter a number: "))
+# fact = 1
+# i = 1
+
+# while i <= num:
+#     fact *= i
+#     i += 1
+
+# print(f"The factorial of {num} is: {fact}")
+# ```
+
+# This program does the following:
+
+# 1. Takes user inputs for `name` and `age`.
+# 2. Uses an `if-else` statement to check if the user is eligible to vote based on their age.
+# 3. Prints numbers from 1 to 5 using a `for` loop.
+# 4. Calculates the factorial of a number using a `while` loop.
+
+# Here's an example of how the program would work:
+
+# ```
+# Enter your name: Alice
+# Enter your age: 22
+# Hello Alice! You are eligible to vote.
+# Printing numbers from 1 to 5 using a for loop:
+# 1
+# 2
+# 3
+# 4
+# 5
+# Enter a number: 5
+# The factorial of 5 is: 120
+# ```
+
+# This program showcases the use of user inputs, control statements (if-else), and loops (for loop and while loop) in Python.
+
 
 
