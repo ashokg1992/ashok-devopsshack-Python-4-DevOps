@@ -1,6 +1,14 @@
 
 
 ############################### #######         FUNCTONS #################### #######################
+
+# FUNCTION:
+# ------------
+# insted of writing same code again and again in source code , just we write that code as a function and call it when it is necesary.
+
+
+
+
 # Benefits of Functions and Modules:
 
 #     Reusability: Functions allow you to write code once and use it multiple times.
